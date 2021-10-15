@@ -1,6 +1,6 @@
                # Tourism-Management-System
                
-A management system that will provide you some offers as per your requirments.
+A management system that will provide you some offers as per your requirments
 and after that it will give you two types of choice -
 First one - travel inside India
 Second one - travel outside India
